@@ -39,7 +39,7 @@ This site is a pro bono donation to a community thrift store that helps support 
 ### contributions
 I would appreciate any feedback concerning bugs or on how to improve the site.
 Simply open a pull request with your suggestions or
-<a target="_blank" href="mailto:stefq1111@gmail.com">
+<a target="_blank" href="mailto:chizy2@gmail.com">
   <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="40" />
 </a>
 
